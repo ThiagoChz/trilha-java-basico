@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "contaBancaria",
+            "request": "launch",
+            "mainClass": "contaBancaria",
+            "projectName": "tipos-variaveis_c09b7d6b"
+        },
+        {
+            "type": "java",
+            "name": "desfaio",
+            "request": "launch",
+            "mainClass": "desfaio",
+            "projectName": "tipos-variaveis_c09b7d6b"
+        },
+        {
+            "type": "java",
+            "name": "entradaDados",
+            "request": "launch",
+            "mainClass": "entradaDados",
+            "projectName": "tipos-variaveis_c09b7d6b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "tipos-variaveis_c09b7d6b"
+        },
+        {
+            "type": "java",
+            "name": "aboutMe",
+            "request": "launch",
+            "mainClass": "aboutMe",
+            "projectName": "tipos-variaveis_c09b7d6b"
+        },
+        {
+            "type": "java",
+            "name": "terminalEargumentos",
+            "request": "launch",
+            "mainClass": "terminalEargumentos",
+            "projectName": "tipos-variaveis_c09b7d6b"
+        }
+    ]
+}
